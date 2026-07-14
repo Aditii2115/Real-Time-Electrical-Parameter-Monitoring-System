@@ -82,13 +82,3 @@ The firmware (Arduino/ESP32 sketch) is included in this repository. It:
 - Integration with mobile apps for historical analysis
 - Support for multiple loads/multi-channel monitoring
 
-## Authors
-
-- Vensi Savani
-- Aditi Shah
-
-Department of Electronics and Communication Engineering, Institute of Technology, Nirma University, Ahmedabad, India
-
-## References
-
-Key references include IEEE papers on smart energy metering and IoT-based monitoring systems, along with official ESP32 and PZEM-004T documentation. See the full paper for complete citations.
